@@ -1,0 +1,35 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (laba3_var4_v142.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  CustomExpressionEvaluator.cpp
+C:\Users\Lenovo\Desktop\laba3_var4_v142\laba3_var4_v142\CustomExpressionEvaluator.cpp(10,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\laba3_var4_v142\laba3_var4_v142\CustomExpressionEvaluator.cpp(22,36): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\laba3_var4_v142\laba3_var4_v142\CustomExpressionEvaluator.cpp(52,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\laba3_var4_v142\laba3_var4_v142\CustomExpressionEvaluator.cpp(93,38): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\laba3_var4_v142\laba3_var4_v142\CustomExpressionEvaluator.cpp(94,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\laba3_var4_v142\laba3_var4_v142\CustomExpressionEvaluator.cpp(106,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\laba3_var4_v142\laba3_var4_v142\CustomExpressionEvaluator.cpp(107,44): warning C4018: <: несоответствие типов со знаком и без знака
+  ExpressionEvaluator.cpp
+C:\Users\Lenovo\Desktop\laba3_var4_v142\laba3_var4_v142\ExpressionEvaluator.cpp(6,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\laba3_var4_v142\laba3_var4_v142\ExpressionEvaluator.cpp(14,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\laba3_var4_v142\laba3_var4_v142\ExpressionEvaluator.cpp(34,35): warning C4018: <: несоответствие типов со знаком и без знака
+  laba3_var4_v142.cpp
+  MobilePhone.cpp
+  Multiplier.cpp
+C:\Users\Lenovo\Desktop\laba3_var4_v142\laba3_var4_v142\Multiplier.cpp(9,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\laba3_var4_v142\laba3_var4_v142\Multiplier.cpp(20,36): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\laba3_var4_v142\laba3_var4_v142\Multiplier.cpp(50,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\laba3_var4_v142\laba3_var4_v142\Multiplier.cpp(87,38): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\laba3_var4_v142\laba3_var4_v142\Multiplier.cpp(88,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\laba3_var4_v142\laba3_var4_v142\Multiplier.cpp(100,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\laba3_var4_v142\laba3_var4_v142\Multiplier.cpp(101,44): warning C4018: <: несоответствие типов со знаком и без знака
+  Phone.cpp
+  Summator.cpp
+C:\Users\Lenovo\Desktop\laba3_var4_v142\laba3_var4_v142\Summator.cpp(13,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\laba3_var4_v142\laba3_var4_v142\Summator.cpp(24,36): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\laba3_var4_v142\laba3_var4_v142\Summator.cpp(54,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\laba3_var4_v142\laba3_var4_v142\Summator.cpp(91,38): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\laba3_var4_v142\laba3_var4_v142\Summator.cpp(92,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\laba3_var4_v142\laba3_var4_v142\Summator.cpp(104,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Lenovo\Desktop\laba3_var4_v142\laba3_var4_v142\Summator.cpp(105,44): warning C4018: <: несоответствие типов со знаком и без знака
+  Tablet.cpp
+  Создание кода...
+  laba3_var4_v142.vcxproj -> C:\Users\Lenovo\Desktop\laba3_var4_v142\Debug\Lab4_Dobrynin.exe
